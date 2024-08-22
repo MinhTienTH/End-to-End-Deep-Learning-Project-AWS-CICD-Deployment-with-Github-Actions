@@ -110,7 +110,7 @@ dvc dag
 
 ## AWS CI/CD Deployment with GitHub Actions
 
-**1. Login to AWS Console.**
+**1. Login to AWS Console.**<p>
 **2. Create an IAM User for Deployment:**
 
    - Provide specific access:
